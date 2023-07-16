@@ -6,4 +6,4 @@
 # 50 HTML, CSS, and JS sample project
 ## Project 4: Month Calendar
 An Image of the project output.
-![]()
+![](https://github.com/starsofchance/50-HTML-CSS-JS-Project-4/blob/main/Capture.PNG)
